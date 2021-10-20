@@ -1,6 +1,7 @@
 Gregório Miranda
 
 Sou psicólogo, psicanalista e professor de psicologia, dentre outras coisas.
+
 Mantenho aqui o código-fonte de meu blog, feito com jekyll.
 
 <!---
