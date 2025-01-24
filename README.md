@@ -1,10 +1,7 @@
 Gregório Miranda
 
-Sou psicólogo, psicanalista e professor de psicologia, dentre outras coisas.
+I’m a psychologist, teacher, and aspiring IT worker.
 
-Mantenho aqui o código-fonte de meu blog, feito com jekyll.
+Here you’ll find things I’ve primarily created for myself, with the hope that they could be useful to others. 
 
-<!---
-ggio/ggio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I also maintain the source code for my blog here, which is built with Jekyll.
